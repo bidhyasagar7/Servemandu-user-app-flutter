@@ -4,7 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class MapsUtilities
 {
-  MapsUtilities._();
+   MapsUtilities._();
 
   // gives lat & lng from google maps
   static Future<void> openMapWithPosition(double latitude, double longitude) async

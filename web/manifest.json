@@ -1,5 +1,5 @@
 {
-    "name": "servemandu_users_app",
+     "name": "servemandu_users_app",
     "short_name": "servemandu_users_app",
     "start_url": ".",
     "display": "standalone",
